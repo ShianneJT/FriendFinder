@@ -1,38 +1,38 @@
 module.exports = [
 	{
-		name: 'Karen',
-		photo: ' ',
-		scores: [
-			'3',
-			'5',
-			'5',
-			'1',
-			'5',
-			'5',
-			'1',
-			'1',
-			'1',
-			'5'
-		]
-	},
-	{
-		name: 'Chad',
+		name: 'Dotty',
 		photo: ' ',
 		scores: [
 			'2',
+			'5',
+			'1',
+			'5',
 			'4',
+			'2',
 			'1',
-			'1',
-			'1',
-			'1',
+			'5',
+			'3',
+			'2'
+		]
+	},
+	{
+		name: 'Loki',
+		photo: ' ',
+		scores: [
+			'4',
+			'3',
 			'1',
 			'2',
+			'1',
+			'4',
+			'5',
+			'5',
 			'1',
 			'5'
 		]
 	},
 	{
-		name: 'Felicia',
+		name: 'Pumpkin',
 		photo: ' ',
 		scores: [
 			'4',
@@ -48,7 +48,7 @@ module.exports = [
 		]
 	},
 	{
-		name: 'Dotty',
+		name: 'Polly',
 		photo: ' ',
 		scores: [
 			'5',
@@ -61,22 +61,6 @@ module.exports = [
 			'3',
 			'3',
 			'4'
-		]
-	},
-	{
-		name: 'Loki',
-		photo: ' ',
-		scores: [
-			'1',
-			'1',
-			'5',
-			'5',
-			'5',
-			'5',
-			'5',
-			'5',
-			'5',
-			'1'
 		]
 	}
 ];
