@@ -1,7 +1,7 @@
 module.exports = [
 	{
 		name: 'Dotty',
-		photo: ' ',
+		photo: './../images/dotty.jpg',
 		scores: [
 			'2',
 			'5',
@@ -17,7 +17,7 @@ module.exports = [
 	},
 	{
 		name: 'Loki',
-		photo: ' ',
+		photo: './../images/loki.jpg',
 		scores: [
 			'4',
 			'3',
@@ -33,7 +33,7 @@ module.exports = [
 	},
 	{
 		name: 'Pumpkin',
-		photo: ' ',
+		photo: './../images/pumpkin.jpg',
 		scores: [
 			'4',
 			'3',
@@ -49,7 +49,7 @@ module.exports = [
 	},
 	{
 		name: 'Polly',
-		photo: ' ',
+		photo: './../images/polly.jpg',
 		scores: [
 			'5',
 			'1',

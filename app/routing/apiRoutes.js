@@ -1,12 +1,12 @@
 var friends = require('../data/friends.js');
 
-module.exports = function(app) {
+module.exports = function (app) {
 
-    app.get('/api/friends', function(req, res) {
+    app.get('/api/friends', function (req, res) {
         res.json(friends);
     });
 
-    app.post('/api/friends', function(req, res) {
+    app.post('/api/friends', function (req, res) {
         var friendScore = req.body.scores;
         var scoresArr = [];
         var bestMatch = 0;
